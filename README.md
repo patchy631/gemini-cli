@@ -1,7 +1,5 @@
 # Gemini CLI
 
-![Gemini CLI Screenshot](./assets/gemini-cli.png)
-
 This repository contains the Gemini CLI, a command-line AI workflow tool that connects to your
 tools, understands your code and accelerates your workflows.
 
