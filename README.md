@@ -3,7 +3,7 @@
 This repository contains the Gemini CLI, a command-line AI workflow tool that connects to your
 tools, understands your code and accelerates your workflows.
 
-![Gemini CLI Terminal Demo](./assets/Terminal.gif)
+![Gemini CLI Terminal Demo](./assets/Terminal_new.gif)
 
 
 With the Gemini CLI you can:
